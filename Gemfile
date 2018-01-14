@@ -12,8 +12,7 @@ gem 'rails', '~> 5.1.4'
 group :development do
   gem 'sqlite3'
 end
-
-gem 'pg', '~> 0.18'
+gem 'pg'
 
 gem 'carrierwave'
 
